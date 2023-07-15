@@ -1,0 +1,203 @@
+body{
+margin: 0;
+padding: 0;
+}
+
+.manu{
+    display: flex; 
+    gap:20px;
+    justify-content:center;
+margin: 0px 100px;
+
+  
+
+}  
+.manu a{
+    text-decoration: none;
+    padding: 20px;
+    font-size: 15px;
+    color:black;
+
+}
+.manu a:hover{
+    color:red;
+
+}
+.header-area{
+display: flex;
+margin: 50px 100px;
+
+}   
+
+.banner{
+width: 600px;
+height: 500px;
+}
+.head{
+    font-size: 40px;
+}
+
+.btn{
+    background:orange;
+    border-radius: 20px;
+    padding: 5px 10px;
+    color:white;
+    margin-top: 10px;
+
+}
+.prag{font-size: 15px;
+margin-top: 10px;
+}
+
+
+
+.btn:hover{
+    background: white;
+    color: black;
+    
+}
+
+
+.img{height: 500px;
+width: 500px;}
+
+.imges{background:;
+    height: 30px;
+    width: 30px;
+}
+h3{
+    text-align: center;
+    color:white;
+    padding-top: 40px;
+    font-size: 40px;   
+}
+.section-area{
+    background: orange;
+    width: 1060px;
+    height: 800px;
+    margin: 0px 100px;
+}
+
+.imges{
+    background: red;
+    margin: 40px 80px;
+    padding: 20px;
+    background: green;
+    width: 80px;
+    height: 80px;
+    border-radius: 100%;
+}
+.div1{
+    display: flex;
+    margin:0px 200px;
+    gap: 10px;   
+}
+.div{
+height: 300px;
+width: 300px;
+background: white;
+border-radius: 20px;
+}
+h4{
+    margin-top: -20px;
+    text-align: center;
+}
+.pre{ text-align: center;}
+
+.div2{
+    display: flex;
+    margin:0px 200px;
+    gap:10px;
+    margin-top: 10px;    
+}
+.my-btn{
+ text-align: center;
+
+}
+.button{
+    background: green;
+    border-radius: 20px;
+    padding: 10px;
+    margin-right:60px;
+    margin-top: 20px;
+}
+
+.section2{
+    display: flex;
+    margin: 50px 100px;
+}
+.main-content{
+    width: 500px;
+    height: 500px;
+  margin: 0px 20px;
+}
+.img2{
+    width: 600px;
+    height: 500px;
+}
+.paragraph{margin-top: 20px;}
+.new-section{ 
+ margin: 0px 100px;
+background: orange;
+height: 200px;
+    
+   
+    }
+.n-div{
+    display: flex;
+   margin: 30px 150px;
+    gap :200px;
+
+}
+    
+
+
+.new-div{
+text-align: center;
+width: 100px;
+height: 100px;
+}
+
+.hading{
+    font-size: 50px;
+    color: white;
+    
+}
+.new-p{
+    color: white;
+    margin-top: -20px;
+}
+.section3{background: orange;
+        margin:0px 100px;
+        height: 200px;
+}
+.div3{text-align: center;
+padding-top: 10px;
+}
+.btn1{background: red;
+    padding: 10px;
+    color: white;
+    border-radius: 20px;
+
+}
+.input{width: 200px;
+    height: 20px;
+    border-radius: 10px;
+
+}
+.h{color: white;
+font-size: 40px;
+}
+.footer{
+    background: black;
+    margin: 5px 100px;
+    height: 50px;
+}
+.footer1{
+    color: white;
+    text-align: center;
+   padding-top: 15px;
+   font-size: 15px;
+
+}
+
